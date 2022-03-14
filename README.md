@@ -9,10 +9,9 @@
 
 
 ## Images
-<img src="Screenshot_1643373683.png" height="500" width="250"><img/>
-<img src="Screenshot_1643373686.png" height="500" width="250"><img/>
-<img src="Screenshot_1643373697.png" height="500" width="250"><img/>
-<img src="Screenshot_1643373700.png" height="500" width="250"><img/>
+<img src="Screenshot_1647241363.png" height="500" width="250"><img/>
+<img src="Screenshot_1647241397.png" height="500" width="250"><img/>
+<img src="Screenshot_1647241992.png" height="500" width="250"><img/>
 
 ## Installation
 Clone this repository on your local machine.
