@@ -7,6 +7,10 @@
 - switch between pages
 - The information entered in the form has been moved to another page.
 
+## Özellikler
+- react navigation kullanıldı
+- sayfalar arası geçiş yapıldı
+- Forma girilen bilgiler başka sayfaya aktarıldı
 
 ## Images
 <img src="Screenshot_1647241363.png" height="500" width="250"><img/>
